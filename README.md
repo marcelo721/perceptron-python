@@ -20,7 +20,7 @@ A Perceptron is a simple type of neural network used for binary classification t
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/yourrepositoryname.git
+    git clone https://github.com/marcelo721/perceptron-python.git
     ```
 2. Run the code:
     ```bash
