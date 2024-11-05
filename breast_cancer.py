@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep 19 20:38:44 2017
-
-@author: Jones
-"""
 import numpy as np
 from sklearn import datasets
 
