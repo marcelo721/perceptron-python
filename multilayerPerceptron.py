@@ -22,7 +22,7 @@ weights0 = 2 * np.random.random((2, 3)) - 1
 weights1 = 2 * np.random.random((3, 1)) - 1
 
 # Training parameters
-training_time = 1000
+training_time = 100000
 learning_rate = 0.6
 momentum = 1
 
